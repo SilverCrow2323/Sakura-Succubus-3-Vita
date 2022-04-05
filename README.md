@@ -7,7 +7,9 @@ Port of Sakura Succubus 3 for PSVita
 
 ## Description
 Ogasawara Hiroki was a normal man, until a chance meeting with Japan’s top idol turns his life around. He soon learns that many members of Japan’s elite are actually succubi – and, what’s more, there’s something about his scent which makes them insatiably attracted to him.
+
 Hiroki amasses a harem of five beautiful and accomplished women: Ayu, the famous idol; Cosmos, the airheaded social media star; Marina, the level-headed businesswoman; Hifumi, the elegant actress; and Hazel, the chipper tennis player.
+
 Managing his full-time job as a photographer alongside an army of clingy succubi girlfriends is a challenge, but it’s a welcome one. Hiroki’s fortunes are on the up, and his future seems rosy.
 
 ## How to Install
