@@ -30,3 +30,7 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 
 ## Known Bugs
 - **Settings and Load/Save Menu**: sometimes may be glitchy. The Quick Load/Save option works without issues.
+
+## 📚 Practical Wiki
+
+The [GitHub Wiki](https://github.com/SilverCrow2323/Sakura-Succubus-3-Vita/wiki) covers VitaShell installation, the original `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
