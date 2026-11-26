@@ -15,10 +15,10 @@ Managing his full-time job as a photographer alongside an army of clingy succubi
 ## How to Install
 _Original game_: https://store.steampowered.com/app/1406020/Sakura_Succubus_3/
 
-The VPK install may be really slow.
+VPK installation may be slow on some Vita storage setups.
 
 Here's the quickest way to set the game on your Vita:
-1. Downlaod the VPK on your PC/Device
+1. Download the VPK on your PC/Device
 2. Extract it like a zip/rar file on a `new folder`
 3. Transfer the folder to your Vita
 4. Open `VitaShell`, select the folder (without opening it) and press TRIANGLE
@@ -31,6 +31,6 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 ## Known Bugs
 - **Settings and Load/Save Menu**: sometimes may be glitchy. The Quick Load/Save option works without issues.
 
-## 📚 Practical Wiki
+## Central documentation
 
-The [GitHub Wiki](https://github.com/SilverCrow2323/Sakura-Succubus-3-Vita/wiki) covers VitaShell installation, the original `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
+The maintained installation guide, original game-data path and troubleshooting notes are now centralized in the [Ren'Py PSVita Ports documentation](https://github.com/SilverCrow2323/renpy-psvita-ports/tree/main/docs/ports/sakura-succubus-3). This repository remains the port source and release location. Report port-specific build issues through this repository's Issues tab.
