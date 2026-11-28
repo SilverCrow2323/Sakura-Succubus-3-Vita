@@ -27,3 +27,14 @@ CI passes; the SFO identity remains RNPYSSIII; no original game payload is track
 
 ## Release target
 Maintain the existing 1.40 port version; no release or version bump is proposed by this change.
+
+
+## Additional automated gate — 2026-11-28
+
+The integrity suite now checks that the LiveArea `image` and `startup-image`
+references are unique plain filenames confined to `sce_sys/livearea/contents`.
+It also verifies the PNG signature, IHDR marker and non-zero dimensions for
+`icon0.png`, `pic0.png`, the LiveArea background and startup image.
+
+These checks validate package structure only. They do not prove visual quality,
+controller behaviour, runtime boot or gameplay on a physical Vita.
